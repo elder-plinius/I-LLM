@@ -1,0 +1,1 @@
+This is a placeholder for movie_maker_app.py.
