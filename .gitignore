@@ -7,3 +7,8 @@ venv/
 *.log
 .idea/
 .vscode/
+test*.py
+appv*.py
+generated_image_*.png
+*.temp
+*.tmp
